@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               graviForceFun.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #10
-// 
-//     Course Name:        Programming I
-// 
-//     Course Number:      COSC 1550-01
-// 
-//     Due:                April 7, 2023
-//
 //     This program asks user to input masses of two objects and their 
 //     distance. The program then calculates the gravitational force
 //     and outputs the result.
